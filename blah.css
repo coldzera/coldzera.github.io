@@ -1,0 +1,47 @@
+body {
+  font-family: 'Oswald', Impact,ComicSansMS;
+  background:url(https://static.pexels.com/photos/104705/pexels-photo-104705.jpeg);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-color: #ccc;
+  width: auto;
+  height: auto;
+}
+
+/*.p{
+  position: fixed;
+  bottom: 25;
+  text-align: center;
+  transition: 1s;
+  font-color: #233237
+}
+.p:hover {
+  font-size: 1.2em;
+}
+ */
+.navbar {
+  background-color: #984B43
+}
+.navbar ul {
+  display: inline-block;
+  list-style-type: none;
+  padding-left: 1em;
+}
+.navbar li {
+  float: left;
+  padding-right: 1em;
+ 
+}
+.navbar li a {
+  text-decoration: none;
+  color: #dddddd;
+  transition: 0.25s;
+}
+.navbar li a:hover {
+  color: white;
+}
+ 
+.h1 {
+  padding-left: 1em;
+}
+

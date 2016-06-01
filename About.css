@@ -1,0 +1,41 @@
+
+body{
+  font-family: 'Monsterrat', Impact, sans-serif;
+color: #3c3c3c;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-color: #282827;
+  width: auto;
+  height: auto;
+}
+.navbar {
+  background-color: #98878F;
+}
+.navbar ul {
+  display: inline-block;
+  list-style-type: none;
+  padding-left: 1em;
+}
+.navbar li {
+  float: left;
+  padding-right: 1em;
+ 
+}
+.navbar li a {
+  text-decoration: none;
+  color: #dddddd;
+  transition: 0.25s;
+}
+.navbar li a:hover {
+  color: white;
+}
+ 
+.MText{
+  color: #DCD8CF;
+  font-size: 2em;
+}
+
+.ImgBlk{
+  position: absolute;
+  align: center;
+}
